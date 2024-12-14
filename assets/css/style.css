@@ -1,8 +1,8 @@
 
 .flowers {
     display: inline-block;
-      height: 210px;
-      width: 210px;
+      height: 100%;
+      width: 100%;
     object-fit: cover;
       
     }
